@@ -1,0 +1,60 @@
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.csproj.AssemblyReference.cache
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.AssemblyInfoInputs.cache
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.AssemblyInfo.cs
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.csproj.CoreCompileInputs.cache
+C:\Users\jmishra\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.exe
+C:\Users\jmishra\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.deps.json
+C:\Users\jmishra\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.runtimeconfig.json
+C:\Users\jmishra\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.dll
+C:\Users\jmishra\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.pdb
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.dll
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\refint\Big Project.dll
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.pdb
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.genruntimeconfig.cache
+C:\Users\jmishra\source\repos\Big Project\Big Project\obj\Debug\net6.0\ref\Big Project.dll
+C:\Users\mi628850\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.exe
+C:\Users\mi628850\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.deps.json
+C:\Users\mi628850\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.runtimeconfig.json
+C:\Users\mi628850\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.dll
+C:\Users\mi628850\source\repos\Big Project\Big Project\bin\Debug\net6.0\Big Project.pdb
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.csproj.AssemblyReference.cache
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.AssemblyInfoInputs.cache
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.AssemblyInfo.cs
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.csproj.CoreCompileInputs.cache
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.dll
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\refint\Big Project.dll
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.pdb
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\Big Project.genruntimeconfig.cache
+C:\Users\mi628850\source\repos\Big Project\Big Project\obj\Debug\net6.0\ref\Big Project.dll
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.exe
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.deps.json
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.runtimeconfig.json
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.dll
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.pdb
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.csproj.AssemblyReference.cache
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.AssemblyInfoInputs.cache
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.AssemblyInfo.cs
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.csproj.CoreCompileInputs.cache
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.dll
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\refint\Big Project.dll
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.pdb
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.genruntimeconfig.cache
+C:\Users\jmishra\source\repos\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\ref\Big Project.dll
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.exe
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.deps.json
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.runtimeconfig.json
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.dll
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\bin\Debug\net6.0\Big Project.pdb
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.csproj.AssemblyReference.cache
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.AssemblyInfoInputs.cache
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.AssemblyInfo.cs
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.csproj.CoreCompileInputs.cache
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.dll
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\refint\Big Project.dll
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.pdb
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\Big Project.genruntimeconfig.cache
+C:\Users\jmishra\OneDrive - Mishra Business Intelligence Services\Visual Studio Projects\Big Project (1)\Big Project\Big Project\obj\Debug\net6.0\ref\Big Project.dll
