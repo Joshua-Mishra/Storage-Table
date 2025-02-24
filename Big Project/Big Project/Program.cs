@@ -1,4 +1,4 @@
-﻿using MainProject;
+using MainProject;
 using Big_Project;
 using System.Data;
 using System.Diagnostics.Contracts;
@@ -51,7 +51,7 @@ namespace MainProject
             string[] split = new string[5];
             try
             {
-                StreamReader mainFile = new StreamReader("C:\\Hello\\Fart.txt");
+                StreamReader mainFile = new StreamReader("Input.txt");
                 while (done == false) // to make things slightly easier, we read the file and count the amount of lines
                 {
                     input = mainFile.ReadLine();
@@ -112,9 +112,9 @@ namespace MainProject
                     }
                 }
 
-                output.Typewriter("# Name\t\t\tHealth\t\t\tAge\t\t\tDefence\t\t\tHeight(M)\t\t");
+                output.Typewriter("# Name\t\t\tHealth\t\t\tAge\t\t\tDefence\t\t\tHeight(M)\t\t\n");
                 Ypos = 2;
-                Console.WriteLine("----------------------------------------------------------------------------------------------------------");//added cute little borders to our table
+                Console.WriteLine("----------------------------------------------------------------------------------------------------------\n");//added cute little borders to our table
 
                 for (int i = start; i <= end; i++)
                 {
@@ -132,7 +132,7 @@ namespace MainProject
                     Ypos += 2;
                 }
                 Console.Write("----------------------------------------------------------------------------------------------------------\n");
-                Console.Write("press d to scroll down, a to sroll up, and q to quit, press e to edit/delete a row, press s to sort");
+                Console.Write("press d to scroll down, a to scroll up, q to quit, e to edit/delete a row, and  s to sort");
                 done = false;
                 while (done == false)
                 {
@@ -425,7 +425,7 @@ namespace MainProject
             string temp = "";
             try
             {
-                StreamWriter savefile = new StreamWriter("C:\\hello\\Fart.txt");
+                StreamWriter savefile = new StreamWriter("input.txt");
 
                 for (int i = 0; i < count; i++)
                 {
@@ -499,7 +499,7 @@ namespace MainProject
             }
             else if (statnum == 5) 
             {
-                output.Typewriter("\nwhat would you like to change the height to? Current value is " + stat[Row].StatFive + " (will be rounded to two decimal places\n");
+                output.Typewriter("\nwhat would you like to change the height to? Current value is " + stat[Row].StatFive + " (will be rounded to two decimal places)\n");
                 TempD = inputs.getDouble();
                 stat[Row].StatFive= Convert.ToString(Math.Round(TempD,2));
             }
